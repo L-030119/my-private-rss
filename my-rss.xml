@@ -5,7 +5,18 @@
     <link>https://github.com/L-030119/my-private-rss</link>
     <description>我的文章集合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Dec 2025 18:37:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 18:44:24 GMT</lastBuildDate>
+
+    <item>
+      <title>测试用2</title>
+      <link>https://raw.githubusercontent.com/L-030119/my-private-rss/main/articles/20251217_测试用2.md</link>
+      <description><![CDATA[joey发现他们俩的恋情是哪一集
+Joey 发现 Chandler 和 Monica 恋情是《老友记》第 5 季第 5 集，英文标题为 “The One With The Kips”（共度周末），于 1998 年 10 月 29 日播出。
+关键剧情
+Chandler 和 Monica 为秘密约会，谎称各自因工作外出度周末，却被 Joey 从两人雷同的说辞（比如都提到酒店的 “kip” 床型、相似的行程细节）中发现破绽，最终戳破真相，两人只好让他保密。]]></description>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://raw.githubusercontent.com/L-030119/my-private-rss/main/articles/20251217_测试用2.md</guid>
+    </item>
 
     <item>
       <title>测试1文章</title>
